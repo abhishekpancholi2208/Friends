@@ -1,4 +1,4 @@
 ArrayType []<ArrayName>;
 int []score;
-ArrayName=new ArrayType[size];
+ArrayName=Techno India NJR[size];
 score=new int[5];
