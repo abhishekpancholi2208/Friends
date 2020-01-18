@@ -1,0 +1,4 @@
+ArrayType []<ArrayName>;
+int []score;
+ArrayName=new ArrayType[size];
+score=new int[5];
